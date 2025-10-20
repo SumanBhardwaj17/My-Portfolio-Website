@@ -6,6 +6,7 @@ export default defineConfig({
   plugins: [
     react(),
   ],
+   base: '/My-Portfolio-Website/', // <-- this is your repo name
   resolve: {
     alias: {
       "@": "/src", // optional: lets you import like "@/components/Component"
