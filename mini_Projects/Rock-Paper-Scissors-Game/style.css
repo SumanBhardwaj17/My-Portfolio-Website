@@ -86,11 +86,11 @@
     width: 65%;
 }
 
-    .score-board {
-        gap: 3rem;
-        font-size: 1.2rem;
-    }
-    
+.score-board {
+    gap: 3rem;
+    font-size: 1.2rem;
+}
+
 #msg {
     background-color: #081b31;
     color: white;
