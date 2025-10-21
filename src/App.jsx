@@ -83,7 +83,7 @@ function App() {
             realities that captivate users.
           </p>
           <a
-            href="/images/Suman_Resume_Watermark.pdf"
+            href="images/Suman_Resume_Watermark.pdf"
             target="_blank"
             rel="noopener noreferrer"
             loading="lazy"
@@ -125,7 +125,7 @@ function App() {
             </i>
           </div>
           <img
-            src="/images/neon-night-2-compressed.jpg"
+            src="images/neon-night-2-compressed.jpg"
             loading="eager"
             fetchpriority="high"
             decoding="async"
@@ -222,7 +222,7 @@ function App() {
           {/* 1st card */}
           <div className="project-card">
             <img
-              src="/images/coding png-compressed.avif"
+              src="images/coding png-compressed.avif"
               loading="lazy"
               alt="Tic Tac Toe"
               height="200px"
@@ -246,7 +246,7 @@ function App() {
               </div>
               <div className="project-links">
                 <a
-                  href="/mini_Projects/Tic-Tac-Toe-Game/index.html"
+                  href="mini_Projects/Tic-Tac-Toe-Game/index.html"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="project-link"
@@ -269,7 +269,7 @@ function App() {
           {/* 2nd card  */}
           <div className="project-card">
             <img
-              src="/images/coding png 2-compressed.avif"
+              src="images/coding png 2-compressed.avif"
               loading="lazy"
               alt="Rock Paper Scissors"
               height="200px"
@@ -292,7 +292,7 @@ function App() {
               </div>
               <div className="project-links">
                 <a
-                  href="/mini_Projects/Rock-Paper-Scissors-Game/index.html"
+                  href="mini_Projects/Rock-Paper-Scissors-Game/index.html"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="project-link"
@@ -404,7 +404,7 @@ function App() {
             <FaGithub />
           </a>
           <a
-            href="/images/Suman_Resume_Watermark.pdf"
+            href="images/Suman_Resume_Watermark.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="social-link"
