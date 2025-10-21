@@ -7,7 +7,7 @@ export default defineConfig({
     react(),
   ],
   // Use the repo-base only in production so `npm run dev` works locally
-  base: process.env.NODE_ENV === "production" ? "/My-Portfolio-Website/" : "/",
+  base: process.env.NODE_ENV === "production" ? "/My-Portfolio-Website/" : "./",
   resolve: {
     alias: {
       "@": "/src", // optional: lets you import like "@/components/Component"

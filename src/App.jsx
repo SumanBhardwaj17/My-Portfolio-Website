@@ -246,7 +246,7 @@ function App() {
               </div>
               <div className="project-links">
                 <a
-                  href="/mini_Projects/Tic-Tac-Toe-Game{Project}/index.html"
+                  href="/mini_Projects/Tic-Tac-Toe-Game/index.html"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="project-link"
@@ -292,7 +292,7 @@ function App() {
               </div>
               <div className="project-links">
                 <a
-                  href="/mini_Projects/Rock-Paper-Scissors-Game{Project}/index.html"
+                  href="/mini_Projects/Rock-Paper-Scissors-Game/index.html"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="project-link"
